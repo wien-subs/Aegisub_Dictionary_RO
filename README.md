@@ -1,4 +1,4 @@
-#Dicționar ortografic pentru Aegisub
+# Dicționar ortografic pentru Aegisub
 
 - Special thanks for [Bluebell](https://shinobifansub.com/members/bluebell.12194/)
 
